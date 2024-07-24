@@ -20,5 +20,13 @@
     "pdf",
     "convert",
     "markdowntopdf"
-  ]
+  ],
+  "homepage": "https://github.com/xzhangsir/markdowntopdf",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xzhangsir/markdowntopdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xzhangsir/markdowntopdf/issues"
+  }
 }
