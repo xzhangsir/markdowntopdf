@@ -1,5 +1,5 @@
 {
-  "name": "markdowntopdf",
+  "name": "markdowntopdfjs",
   "version": "0.0.1",
   "description": "Markdown to PDF converter",
   "main": "index.js",
