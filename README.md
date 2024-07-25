@@ -2,7 +2,7 @@
 
 Node module that converts Markdown files to PDFs.
 
-Your markdown will first be converted into HTML through the parsing of 'remarkable', then pushed into the HTML5 Boilerplate `index.html`. Phantomjs renders the page and saves it to a PDF. You can even customise the style of the PDF by passing an optional path to your CSS _and_ you can pre-process your markdown file before it is converted to a PDF by passing in a pre-processing function, for templating.
+Your markdown will first be converted into HTML through the parsing of `remarkable`, then pushed into the HTML5 Boilerplate `index.html`. Phantomjs renders the page and saves it to a PDF. You can even customise the style of the PDF by passing an optional path to your CSS _and_ you can pre-process your markdown file before it is converted to a PDF by passing in a pre-processing function, for templating.
 
 ## Install
 
